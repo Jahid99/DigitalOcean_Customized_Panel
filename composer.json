@@ -1,0 +1,7 @@
+{
+    "require": {
+        "toin0u/digitalocean-v2": "~2.0",
+        "guzzle/guzzle": "~3.7",
+        "guzzlehttp/guzzle": "~5.0"
+    }
+}
